@@ -11,4 +11,22 @@ This image by Hans moravec reprisents what he tought and at that time was able t
 <img title="Image generated using Dall E" alt="Image generated using Dall E" src="dalle.png">
 Image generated using Dall E
 
-**1.2B**Besides the Turing Test, Alan Turing is renowned for his work on: 
+**1.2B** Besides the Turing Test, Alan Turing is renowned for his work on:
+
+    1. breaking german enigma code using an early version of a computer
+
+    2. Creating the definitive example of the unsolvable problem in computing that disproves Hilberts Entscheidungproblem
+
+    3.  Laying the foundation for computer technologie and AI
+
+1.2 Turing test can machines think?
+
+There are a few goals to the imitation game but it mostly comes down to can a machine act like a human. It does this by asking the following questions:
+ 
+    * can machines think
+    * can machines be conscious
+    * can machines fall in love
+    * can machines create art, masic poetry?(Awnser is yes)
+    * Can machines enjoy a delicious meal?
+
+Trying to test this hypothesis Turing came up with a test where you test if humans can distinguish a human from a machine.
