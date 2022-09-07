@@ -21,3 +21,15 @@ Logistics, will be the field that I will go and do my research for.
 
 **6c Find one scholarly source, and one popular source of information on your chosen AI topic. Tip: Use one of the search strategies presented in the Information Literacy course (e.g., Boolean searching).**
 
+https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1129922&dswid=-2255
+
+**6d Create an in-text, and bibliography citation for your popular, and scholarly source.**
+
+Scholarly source:[Autonomous Driving in the Logistics Industry: A multi-perspective view on self-driving trucks, changesin competitive advantages and their implications.](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1129922&dswid=5305)
+
+Bibliography: Autonomous Driving in the Logistics Industry: A multi-perspective view on self-driving trucks, changesin competitive advantages and their implications.(2017-08-07)
+
+ai trucks good(Neuweiler, Lukas  and  Riedel, Pia Vanessa 2017)
+
+**6e Imagine writing a research report, and finding a quote similar to one below.**
+
