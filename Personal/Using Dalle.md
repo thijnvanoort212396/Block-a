@@ -10,3 +10,10 @@
 
   Dall-E 2.0 can be used as a tool to make art or images to show concepts but it will as of now not be able to replace human artist because it cant come up with new concepts.
 
+
+Some images i have created using Dall-E 2.0
+
+<image src="dallep.png" width="24%" height="24%" title="Oil painting of a pond with frogs and a small bridge">
+<image src="dallep2.png" width="24%" height="24%">
+<image src="dallep3.png" width="24%" height="24%">
+<image src="dallep4.png" width="24%" height="24%">
