@@ -75,3 +75,8 @@ This is because eliza has a set algorithm and if serten trigger words come up it
 
 **1.2G** Creating my own chatbot
 <image src="images/hello.png">
+[try my bot](https://app.fobi.io/#/f/6Zmem3X)
+
+<image src="images/thingy.png">
+
+*Flow chart of bot*
