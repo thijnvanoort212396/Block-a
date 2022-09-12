@@ -62,4 +62,16 @@ Lets use a translation agent, The problem is that I want something in a differnt
   | Pros | Cons |
 |------|------|
 |*Can awnser more qeustions than rule based.<br>*Given eneugh data it can reply to almost everything and also procceses more then words like grammer     |*Takes more storage and energy<br>*Cant awnser qeustions by combining information.    |
-  * generative:
+  * generative: The mostly of all 3 to pass the Turing test, Generative chatbots arae able to formulate their own response based on what is being asked.
+  
+| Pros | Cons |
+|------|------|
+|*Can awnser virtualy any qeustion.<br>*Can reply in more accurately the qeustion at hand.     |*Takes even more data to train<br>*Is more likly to make grammatical errors or nonsensical replies.       |
+
+**1.2F** ELIZA is an example of a …
+
+My awnser: **a**
+This is because eliza has a set algorithm and if serten trigger words come up it will aks more qeustion about those trigger words.
+
+**1.2G** Creating my own chatbot
+<image src="images/hello.png">
