@@ -6,6 +6,7 @@
 **[Chai chatbot](https://chai.ml/)** is a chatbot made by Chai Research Corp which is build by [Thomas R, Tom Lu and William R. G. B.](https://www.linkedin.com/search/results/people/?currentCompany=%5B%2272046117%22%5D&origin=COMPANY_PAGE_CANNED_SEARCH&sid=_qO) It was probaly made for fun and started in 2021.
 <image src="images/chai.png">
 *asking if the bot is sentient which proves it is a rule-based chatbot*
+Fun fact is was actually wearing a red hoodie. 
 
 ## How to tell if something is a human or a machine.
 2.2A A robot wont be able to solve a logical paradox "This sentence is false" which implies the sentence is correct which makes it false. And most chatbots give a random response so ask them some bogus and see if they respond normaly. And you could ask him how he come up with awnsers.
