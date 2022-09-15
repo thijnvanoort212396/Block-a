@@ -16,3 +16,8 @@ Problem is in the future Machine will find a way of manipulation which we dont u
 ## Using setting, condition and qeustions on how to decive a chatbot.
 2.2B You could ask if a dutch politcian is running for president in America and if it cant get the relation between the two you can prove it is a chatbot.
 
+## Lars van Geet the Analytics translator
+
+**3.1a**Find out what a typical work day looks like for a analytics translator (e.g., daily tasks, and related skills, etc.).
+<image src="images/meme1.png">
+translating Nerd data to businesses to make it easier for them to understand and implement it in their business.
